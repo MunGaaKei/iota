@@ -1,0 +1,24 @@
+{
+  "name": "iota",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MunGaaKei/iota.git"
+  },
+  "author": "ithan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MunGaaKei/iota/issues"
+  },
+  "homepage": "https://github.com/MunGaaKei/iota#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  }
+}
